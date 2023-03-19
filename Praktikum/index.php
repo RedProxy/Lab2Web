@@ -73,11 +73,14 @@
 
     // Tampilkan hasil
     echo "<h2>Hasil Output</h2>";
-    echo "Nama: $nama<br>";
-    echo "Tanggal Lahir: $hasil_tanggal_lahir<br>";
-    echo "Umur: $umur tahun<br>";
-    echo "Pekerjaan: $pekerjaan<br>";
-    echo "Gaji: Rp. $gaji/bulan<br>";
+    echo "<table>";
+    echo "<tr><td>Nama</td><td>:</td><td>$nama</td></tr>";
+    echo "<tr><td>Tanggal Lahir</td><td>:</td><td>$hasil_tanggal_lahir</td></tr>";
+    echo "<tr><td>Umur</td><td>:</td><td>$umur tahun</td></tr>";
+    echo "<tr><td>Pekerjaan</td><td>:</td><td>$pekerjaan</td></tr>";
+    echo "<tr><td>Gaji</td><td>:</td><td>Rp. $gaji/bulan</td></tr>";
+    echo "</table>";
+
 }
     ?>
 </body>
