@@ -26,7 +26,7 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 ## Memulai PHP
 <p>Buat folder `lab7_php_dasar` pada root direktori web server (C:\xampp\htdocs)
-<p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/Lab2Web/
+<p>Kemudian untuk mengakses direktori tersebut pada web server dengan mengakses URL: http://localhost/lab7_php_dasar/
 
 ![Lab2Web](img/lab2web.png)
 
