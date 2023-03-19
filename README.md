@@ -1,10 +1,11 @@
 # Tugas Pemrograman Web 2 (Praktikum 2)
 ## Profil
-| --------------- | ----------------------------- |
-| **Nama**        | Muhammad Alwi Nur Fathihah    |
-| **NIM**         | 312110388                     |
-| **Kelas**       | TI.21.A.1                     |
-| **Mata Kuliah** | Pemrograman Web 2             |
+| #               | Biodata                      |
+| --------------- | ---------------------------- |
+| **Nama**        | Muhammad Alwi Nur Fathihah   |
+| **NIM**         | 312110388                    |
+| **Kelas**       | TI.21.A.1                    |
+| **Mata Kuliah** | Pemrograman Web 2            |
 
 # Persiapan
 Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP terlebih dahulu. Web server yang kita gunakan adalah Apache2 dan interpreter PHP. Untuk memudahkan proses praktikum, kita gunakan aplikasi bundle web server yaitu XAMPP.
